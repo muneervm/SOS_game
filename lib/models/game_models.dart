@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class Player {
   final String name;
   final Color color;
-  final String colorName; // 'red', 'green', 'blue'
+  final String colorName;
   int score;
 
   Player({
